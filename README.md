@@ -1,1 +1,1 @@
-# Data Science Bootcamp - My Projects
+# DS Bootcamp Projects
