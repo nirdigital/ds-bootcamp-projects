@@ -7,8 +7,11 @@
 * Decision tree regression
 * KNN regression
 
-
 ## Binary Classification: introvert/extrovert prediction ##
-
+### Models: ###
+* Logistic regression
 
 ## Multiclass Classification: article topic prediction ##
+### Models: ###
+* Bag-of-words: Unigram/Bigram/TF-IDF
+* Sequence: Biderectional LSTM 
