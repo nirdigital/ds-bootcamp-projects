@@ -1,6 +1,5 @@
 # DS Bootcamp – My Projects
 
-
 ## Regression: price prediction of Airbnb listings in Madrid ##
 ### Models: ###
 * Linear regression
@@ -13,5 +12,5 @@
 
 ## Multiclass Classification: article topic prediction ##
 ### Models: ###
-* Bag-of-words: Unigram/Bigram/TF-IDF
-* Sequence: Biderectional LSTM 
+* Bag-of-Words: Unigram/Bigram/TF-IDF
+* Sequence: BiLSTM 
