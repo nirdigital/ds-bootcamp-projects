@@ -1,4 +1,4 @@
-# DS Bootcamp – My Projects
+# Data Science Bootcamp – My Projects
 
 ## Regression: price prediction of Airbnb listings in Madrid ##
 ### Models: ###
